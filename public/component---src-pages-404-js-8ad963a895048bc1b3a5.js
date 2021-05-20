@@ -1,0 +1,2 @@
+(self.webpackChunkserge_avila7=self.webpackChunkserge_avila7||[]).push([[883],{9616:function(e,n,u){"use strict";u.r(n);var a=u(7294);u(5444);n.default=function(){return a.createElement("h1",null,"Not found")}}}]);
+//# sourceMappingURL=component---src-pages-404-js-8ad963a895048bc1b3a5.js.map
